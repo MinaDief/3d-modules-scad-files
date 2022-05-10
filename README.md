@@ -10,3 +10,5 @@ the 3d model that's shown  in the picture is the output of the code that's attac
 
 just a quick note " the code was working fine on previous versions of openscad , which has updated , anyhow, look at the code , it's self explainatory"
 
+![WhatsApp Image 2022-05-10 at 10 49 04 AM (1)](https://user-images.githubusercontent.com/11809198/167591257-03c81c38-a244-4f5c-9009-41c15fd987e6.jpeg)
+![WhatsApp Image 2022-05-10 at 10 49 04 AM](https://user-images.githubusercontent.com/11809198/167591268-af03d751-90a5-4047-8381-2167dd8c6321.jpeg)
